@@ -1,6 +1,6 @@
-import "./globals.css";
+import "@/app/ui/globals.css";
 
-// NOTE: maybe we can use this to add some metadata to the page. ! Import Metadata later.
+// NOTE: favicon is import it is a nextjs file.
 
 // export const metadata: Metadata = {
 //   title: "Create Next App",
